@@ -51,12 +51,19 @@
   <Import Project="$(FSharpTargetsPath)" />
   <ItemGroup>
     <Compile Include="AssemblyInfo.fs" />
+    <None Include="day08\day08_solution.fsx" />
+    <Content Include="day08\day08_input.txt" />
+    <None Include="day09\day09_solution.fsx" />
+    <Content Include="day09\day09_input.txt" />
+    <None Include="day10\day10_solution.fsx" />
+    <Content Include="day10\day10_input.txt" />
     <None Include="Script.fsx" />
+    <Content Include="day08\day08_problem.txt" />
+    <Content Include="day09\day09_problem.txt" />
+    <Content Include="day10\day10_problem.txt" />
     <Content Include="packages.config" />
     <Content Include="day01\day01_problem.txt" />
-    <Content Include="day01\day01_input.txt">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
-    </Content>
+    <Content Include="day01\day01_input.txt" />
     <None Include="day01\day01_solution.fsx" />
     <Content Include="day02\day02_problem.txt" />
     <Content Include="day02\day02_input.txt" />
