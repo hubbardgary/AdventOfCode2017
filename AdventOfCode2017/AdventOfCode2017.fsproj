@@ -51,16 +51,7 @@
   <Import Project="$(FSharpTargetsPath)" />
   <ItemGroup>
     <Compile Include="AssemblyInfo.fs" />
-    <None Include="day08\day08_solution.fsx" />
-    <Content Include="day08\day08_input.txt" />
-    <None Include="day09\day09_solution.fsx" />
-    <Content Include="day09\day09_input.txt" />
-    <None Include="day10\day10_solution.fsx" />
-    <Content Include="day10\day10_input.txt" />
     <None Include="Script.fsx" />
-    <Content Include="day08\day08_problem.txt" />
-    <Content Include="day09\day09_problem.txt" />
-    <Content Include="day10\day10_problem.txt" />
     <Content Include="packages.config" />
     <Content Include="day01\day01_problem.txt" />
     <Content Include="day01\day01_input.txt" />
@@ -82,6 +73,15 @@
     <Content Include="day07\day07_problem.txt" />
     <Content Include="day07\day07_input.txt" />
     <None Include="day07\day07_solution.fsx" />
+    <Content Include="day08\day08_problem.txt" />
+    <Content Include="day08\day08_input.txt" />
+    <None Include="day08\day08_solution.fsx" />
+    <Content Include="day09\day09_problem.txt" />
+    <Content Include="day09\day09_input.txt" />
+    <None Include="day09\day09_solution.fsx" />
+    <Content Include="day10\day10_problem.txt" />
+    <Content Include="day10\day10_input.txt" />
+    <None Include="day10\day10_solution.fsx" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="mscorlib" />
