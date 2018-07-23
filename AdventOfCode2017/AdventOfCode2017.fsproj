@@ -101,6 +101,13 @@
     <None Include="day16\day16_solution.fsx" />
     <Content Include="day17\day17_problem.txt" />
     <None Include="day17\day17_solution.fsx" />
+    <Content Include="day18\day18_problem.txt" />
+    <Content Include="day18\day18_input.txt" />
+    <None Include="day18\day18_solution_part1.fsx" />
+    <None Include="day18\day18_solution_part2.fsx" />
+    <Content Include="day19\day19_problem.txt" />
+    <Content Include="day19\day19_input.txt" />
+    <None Include="day19\day19_solution.fsx" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="mscorlib" />
