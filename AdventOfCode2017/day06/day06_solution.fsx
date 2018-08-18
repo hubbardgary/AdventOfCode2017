@@ -31,5 +31,5 @@ let banks = readInput input
 let part1 = solve (banks, new ResizeArray<string>())
 let part2 = solve (banks, new ResizeArray<string>())
 
-printfn "Part 2 = %i" part1
+printfn "Part 1 = %i" part1
 printfn "Part 2 = %i" part2
