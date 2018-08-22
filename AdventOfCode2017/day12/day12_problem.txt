@@ -22,12 +22,12 @@ For example, suppose you go door-to-door like a travelling salesman and record t
 
 In this example, the following programs are in the group that contains program ID 0:
 
-Program 0 by definition.
-Program 2, directly connected to program 0.
-Program 3 via program 2.
-Program 4 via program 2.
-Program 5 via programs 6, then 4, then 2.
-Program 6 via programs 4, then 2.
+- Program 0 by definition.
+- Program 2, directly connected to program 0.
+- Program 3 via program 2.
+- Program 4 via program 2.
+- Program 5 via programs 6, then 4, then 2.
+- Program 6 via programs 4, then 2.
 
 Therefore, a total of 6 programs are in this group; all but program 1, which has a pipe that connects it to itself.
 
