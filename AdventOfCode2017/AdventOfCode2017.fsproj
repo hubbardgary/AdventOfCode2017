@@ -122,6 +122,9 @@
     <Content Include="day23\day23_input.txt" />
     <None Include="day23\day23_part1_solution.fsx" />
     <None Include="day23\day23_part2_solution.fsx" />
+    <Content Include="day24\day24_problem.txt" />
+    <Content Include="day24\day24_input.txt" />
+    <None Include="day24\day24_solution.fsx" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="mscorlib" />
